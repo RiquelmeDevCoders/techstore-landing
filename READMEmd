@@ -1,0 +1,28 @@
+# 💻 TechStore Landing Page
+
+Landing Page desenvolvida como atividade prática para apresentar os produtos da *TechStore* e permitir o cadastro de e-mails em uma newsletter.
+
+O projeto foi construído com foco em *simplicidade, **organização* e *funcionalidade real* — integrando *frontend* e *backend* com banco de dados MySQL.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+- *HTML5, **CSS3, **JavaScript*
+- *Node.js* com *Express* e *Cors*
+- *MySQL* para persistência dos e-mails cadastrados
+
+---
+
+## ⚙ Funcionalidades
+- Exibe 3 produtos em destaque com nome, descrição, imagem e preço.
+- Validação de e-mail antes do envio.
+- Cadastro de e-mails na base de dados (techstore.inscritos).
+- Layout totalmente responsivo e com design limpo.
+
+---
+
+## 🧠 Como Executar o Projeto
+1. *Clone o repositório*
+   ```bash
+   git clone https://github.com/RiquelmeDevCoders/techstore-landing.git
+   cd techstore-landing
