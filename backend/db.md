@@ -1,3 +1,5 @@
+Criação do DB
+
 CREATE DATABASE techstore;
 USE techstore;
 CREATE TABLE inscritos (
